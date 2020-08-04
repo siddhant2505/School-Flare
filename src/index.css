@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
+=======
+body {
+    margin: 0;
+    font-family:'Raleway';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+>>>>>>> 4d246df4cf2f4182826d23db9c78d8e3c7d77f05
