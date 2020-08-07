@@ -11,27 +11,27 @@ export const Footer = () => {
           <div className="footer__navigation">
             <ul className="footer__list">
               <li className="footer__item">
-                <a href="#" className="footer__link">
+                <a href="/#" className="footer__link">
                   Company
                 </a>
               </li>
               <li className="footer__item">
-                <a href="#" className="footer__link">
+                <a href="/#" className="footer__link">
                   Terms
                 </a>
               </li>
               <li className="footer__item">
-                <a href="#" className="footer__link">
+                <a href="/#" className="footer__link">
                   Conditions
                 </a>
               </li>
               <li className="footer__item">
-                <a href="#" className="footer__link">
+                <a href="/#" className="footer__link">
                   Contact Us
                 </a>
               </li>
               <li className="footer__item">
-                <a href="#" className="footer__link">
+                <a href="/#" className="footer__link">
                   Privacy
                 </a>
               </li>
@@ -42,11 +42,11 @@ export const Footer = () => {
         <div className="col-1-of-2">
           <p class="footer__copyright">
             Built by{" "}
-            <a href="#" className="footer__link">
+            <a href="/#" className="footer__link">
               Sid
             </a>
             &nbsp; You can also checkout his
-            <a href="#" className="footer__link">
+            <a href="/#" className="footer__link">
               &nbsp; Portfolio
             </a>
             . Copyright &copy;2020. This website is designed for practice

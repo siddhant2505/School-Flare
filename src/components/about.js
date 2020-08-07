@@ -32,7 +32,7 @@ export const About = () => {
               driver vetting program, including fingerprinting and complete
               background checks and vehicle certification.
             </p>
-            <a href="#" class="btn-text">
+            <a href="/#" class="btn-text">
               Want SchoolFlare at your school &rarr;
             </a>
           </div>
@@ -40,17 +40,17 @@ export const About = () => {
             <div className="composition">
               <img
                 src={p1}
-                alt="photo-1"
+                alt="scene-1"
                 className="composition__photo composition__photo--p1"
               ></img>
               <img
                 src={p2}
-                alt="photo-2"
+                alt="scene-2"
                 className="composition__photo composition__photo--p2"
               ></img>
               <img
                 src={p3}
-                alt="photo-3"
+                alt="scene-3"
                 className="composition__photo composition__photo--p3"
               ></img>
             </div>

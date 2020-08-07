@@ -14,7 +14,7 @@ export const Header = () => {
             reliable student transformation
           </span>
         </h1>
-        <a href="#" className="btn btn--white btn--animated">
+        <a href="/#" className="btn btn--white btn--animated">
           Discover Plans
         </a>
       </div>

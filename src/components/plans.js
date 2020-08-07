@@ -32,7 +32,7 @@ export const Plans = () => {
                   <div className="card__price-only">Only</div>
                   <div className="card__price-value">Rs 2900</div>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="/#" className="btn btn--white">
                   Book Now!
                 </a>
               </div>
@@ -64,7 +64,7 @@ export const Plans = () => {
                   <div className="card__price-only">Only</div>
                   <div className="card__price-value">Rs 2900</div>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="/#" className="btn btn--white">
                   Book Now!
                 </a>
               </div>
@@ -96,7 +96,7 @@ export const Plans = () => {
                   <div className="card__price-only">Only</div>
                   <div className="card__price-value">Rs 2900</div>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="/#" className="btn btn--white">
                   Book Now!
                 </a>
               </div>
@@ -105,7 +105,7 @@ export const Plans = () => {
         </div>
       </div>
       <div class="u-center-text u-margin-top-big">
-        <a href="#" className="btn btn--green">
+        <a href="/#" className="btn btn--green">
           Discover all plans
         </a>
       </div>

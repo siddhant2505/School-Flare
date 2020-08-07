@@ -1,7 +1,7 @@
 import React from "react";
 import { Header } from "../components/header";
 
-import logo from "../img/favicon.png";
+// import logo from "../img/favicon.png";
 
 //import "../css/icon-font.css";
 import "../sass/main.scss";

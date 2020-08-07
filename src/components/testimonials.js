@@ -1,8 +1,8 @@
 import React from "react";
 import nat8 from "../img/nat-8.jpg";
 import nat9 from "../img/nat-9.jpg";
-import video from "../img/video.mp4";
-import videoSchool from "../img/video-school.webm";
+// import video from "../img/video.mp4";
+// import videoSchool from "../img/video-school.webm";
 import videoSchool1 from "../img/video-school1.webm";
 import videow from "../img/video.webm";
 
@@ -59,7 +59,7 @@ export const Testimonials = () => {
         </div>
       </div>
       <div class="u-center-text u-margin-top-big">
-        <a href="#" className=" btn-text">
+        <a href="/#" className=" btn-text">
           Read all stories &rarr;
         </a>
       </div>

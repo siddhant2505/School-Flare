@@ -9,7 +9,7 @@ export const JoinUs = () => {
             <div class=" u-margin-bottom-medium">
               <h2 class="heading-secondary">Join us now</h2>
             </div>
-            <form action="#" className="form">
+            <form action="/#" className="form">
               <div className="form__group">
                 <input
                   type="text"
